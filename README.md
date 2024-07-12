@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+N+E+X+U+S+.+A+i+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+N+E+X+U+S+.+A+i+;&color=FFFFFF&pause=true" />
 </h1>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=-2iktvcwxao">
